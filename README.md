@@ -2,3 +2,7 @@
 #### BetterDiscord Theme
 
 Amazing theme if you love space and dark colors.
+
+
+---
+Licensed under MIT License
