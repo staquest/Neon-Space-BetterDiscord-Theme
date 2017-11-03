@@ -4,7 +4,13 @@
     background-image: url(https://i.imgur.com/PDR7A4t.png) !important;
     background-size: cover !important;
 }
-.layers, .layer { background: transparent !important;
+.layers, .layer, 
+.container-2OU7Cz, 
+.channels-3g2vYe, 
+.theme-dark .title-qAcLxz, 
+.theme-dark .chat form, 
+.theme-dark .headerBar-cxbhPD { 
+	background: transparent !important;
 }
 
 .guilds-wrapper{
@@ -159,6 +165,7 @@
 .theme-dark #friends .friends-header .tab-bar .tab-bar-item.tab-bar-item-primary
 {
 	background:#1f92af !important;
+	color: white;
 }
 .user-popout .body,
 .user-popout .footer,
